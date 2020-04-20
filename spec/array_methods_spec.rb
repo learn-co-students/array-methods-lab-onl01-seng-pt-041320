@@ -46,12 +46,3 @@ describe "#using_size" do
     expect(using_size(array)).to eq(6)
   end
 end
-
-
-
-
-
-
-
-
-
